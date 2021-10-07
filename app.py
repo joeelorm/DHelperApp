@@ -5,7 +5,7 @@ from news_app import *
 
 
 #Configuring App Page
-PAGE_CONFIG = {'page_title':'Decision Helper', 'page_icon': '🔥', 'layout': 'wide', 'initial_sidebar_state' :'expanded'}
+PAGE_CONFIG = {'page_title':'Decision Helper', 'page_icon': '', 'layout': 'wide', 'initial_sidebar_state' :'expanded'}
 st.set_page_config(**PAGE_CONFIG)
 
 #APP CODE
